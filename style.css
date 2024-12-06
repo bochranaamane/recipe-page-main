@@ -7,7 +7,7 @@
     box-sizing: content-box;
     /* font-family: "Outfit", serif; */
     /* font-family: "Inter", serif; * */
-    --rose1:hsl(330, 94%, 93%);
+    --rose1:hsl(330, 100%, 98%);
     --Rose800: hsl(332, 51%, 32%);
     --White: hsl(0, 0%, 100%);
     --Stone900: hsl(24, 5%, 18%);
@@ -18,7 +18,7 @@
 }
 body{
    
-    background-color: var(--);
+    background-color: var(--Rose800);
     width: 100%;
     height:auto;
     display: flex;
